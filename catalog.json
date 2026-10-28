@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "catalog_version": 1,
+  "addons": [
+    {
+      "id": "io.freemytv.addons.deviceinfo",
+      "name": "Информация о телевизоре",
+      "description": "Тестовый аддон для проверки системы расширений Free My TV.",
+      "version": "1.0",
+      "version_code": 1,
+      "min_api": 1,
+      "max_api": 1,
+      "package_name": "io.freemytv.addons.deviceinfo",
+      "signer_sha256": "8148ed63d959e5c4faf9e1bbac4a583a119e444332b51cb8c8b803f59519191c",
+      "apk_url": "https://nalim2000.github.io/free-my-tv-addons/DeviceInfoAddon-signed.apk",
+      "sha256": "25664f6e3f7e35702e6f4721495d5326550a3295097646112182f9a5807574db"
+    }
+  ]
+}
